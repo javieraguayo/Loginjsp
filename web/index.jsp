@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 21-08-2016, 22:48:31
-    Author     : Javier
+    Author     : Javier Aguayo Aguilar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
